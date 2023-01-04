@@ -1,0 +1,15 @@
+#listTask {
+  list-style: none; /* Supprime les puces de la liste */
+}
+
+#listTask li {
+  margin: 10px;
+  padding: 10px;
+  background-color: #eee; /* Ajoute un fond gris clair */
+}
+
+/* .barred::before {
+  content: '';
+  position: absolute;
+  top: 0;
+} */
